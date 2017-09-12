@@ -1,0 +1,2 @@
+# is210-w3-extracredit-jroseboom
+Week Three Extra Credit - Create your own repository on GitHub and, in-it, create a small (5-10 page) slide show with reStructuredText using rst2s5. You must include both the .rst file and the created slideshow files. The topic of this slideshow should be a favorite game, be it board, card, sports, or otherwise. Treat it like it's a presentation to convince all of us to try the game.
